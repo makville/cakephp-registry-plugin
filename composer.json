@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/MakvilleRegistry",
+    "name": "makville/cakephp-registry-plugin",
     "description": "MakvilleRegistry plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
